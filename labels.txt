@@ -1,0 +1,12 @@
+0   100mili
+1   10dt
+2   10mili
+3   1dt
+4   200mili
+5   20dt
+6   20mili
+7   2dt
+8   500mili
+9   50dt
+10  50mili
+11  5dt
